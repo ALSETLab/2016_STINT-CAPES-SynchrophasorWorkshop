@@ -23,12 +23,12 @@
   - Presentation: [(here)](https://github.com/SmarTS-Lab-Parapluie/2016_STINT-CAPES-SynchrophasorWorkshop/blob/master/01_Presentations/03_F_MIlano_IV_Workshop_PMU_in_Rio.pdf)
   
 4. Performance Testing of Phasor Measurement Units at CEPEL’s LabPMU
-  - Dr. José Eduardo Alves Jr. (CEPEL, Brazil)
+  - Dr. José Eduardo Alves Jr. (CEPEL, Brazil)
   - Presentation: [(here)](https://github.com/SmarTS-Lab-Parapluie/2016_STINT-CAPES-SynchrophasorWorkshop/blob/master/01_Presentations/04_J_Alves_IV_Workshop_PMU_in_Rio.pdf)
 
 5. Perturbations Monitoring and Phasor Measurements (RPMF)
-  - Guilherme Zat (FPT Itaipú)
-  - Presentation: [(here)](https://github.com/SmarTS-Lab-Parapluie/2016_STINT-CAPES-SynchrophasorWorkshop/blob/master/01_Presentations/05_G_Zat_IV_Workshop_PMU_in_Rio.pdf)
+  - Guilherme Zat (FPT Itaipú)
+  - Presentation: [(here)](https://github.com/SmarTS-Lab-Parapluie/2016_STINT-CAPES-SynchrophasorWorkshop/blob/master/01_Presentations/05_G_Zat_IV_Workshop_PMU_in_Rio.pdf)
 
 6. Advances in Synchrophasor-Based Wide Area Defence and Control
   - Ricardo Lira (GE, Brazil)
