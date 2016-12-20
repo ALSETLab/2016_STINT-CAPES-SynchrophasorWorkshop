@@ -1,4 +1,5 @@
 # 4th RIO International Workshop on *"The use of Synchrophasors in Power Systems: An Indispensable Infrastructure in the 21st Century"*
+<img src="https://github.com/SmarTS-Lab-Parapluie/2016_STINT-CAPES-SynchrophasorWorkshop/blob/master/03_Pictures/Photo%202016-11-29%2C%2008%2024%2032.jpg" alt="Opening" width="403" height="302">
 
 - Facilitated through: STINT-CAPES Swedish-Brazillian Collaboration Project “Development of Synchrophasor-Based Applications with Data Obtained from Emulated and Actual Power Systems”[(link)](http://www.stint.se/en/241/var/newsID/357).
 - November 29th, 2016; Rio de Janeiro, Brazil
