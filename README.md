@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.213933.svg)](https://doi.org/10.5281/zenodo.213933)
+
 # 4th RIO International Workshop on *"The use of Synchrophasors in Power Systems: An Indispensable Infrastructure in the 21st Century"*
 <img src="https://github.com/SmarTS-Lab-Parapluie/2016_STINT-CAPES-SynchrophasorWorkshop/blob/master/03_Pictures/Photo%202016-11-29%2C%2008%2024%2032.jpg" alt="Opening" width="403" height="302">
 
