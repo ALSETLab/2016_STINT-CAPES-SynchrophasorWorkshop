@@ -5,9 +5,9 @@
 - November 29th, 2016; Rio de Janeiro, Brazil
 
 ## Citation:
-[![DOI]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.213933.svg)](https://doi.org/10.5281/zenodo.213933)
 
-> to be completed
+> Luigi Vanfretti, & Glauco N. Taranto. (2016, December). Proceedings of the 4th RIO International Workshop on "The use of Synchrophasors in Power Systems: An Indispensable Infrastructure in the 21st Century", November 29th, 2016; Rio de Janeiro, Brazil. Zenodo. http://doi.org/10.5281/zenodo.213933
 
 ## Presentations
  
