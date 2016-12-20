@@ -56,7 +56,7 @@
   - Download: *to be updated*
 
 3. T. Bogodorova and L. Vanfretti, "Estimation of Power System Model Parameters: Uncertainty Distributions and Confidence Intervals”, KTH.
-  - Download: *to be updated*
+  - Download: [(here)](https://github.com/SmarTS-Lab-Parapluie/2016_STINT-CAPES-SynchrophasorWorkshop/blob/master/02_Posters/03_TetianaPosterBrazil2016.pdf).
   
 4. M. Baudette and L. Vanfretti, "OpenIPSL and RaPId: OSS Tools for Power System Modeling, Simulation and Model Validation”, KTH.
   - Download: [(here)](https://github.com/SmarTS-Lab-Parapluie/2016_STINT-CAPES-SynchrophasorWorkshop/blob/master/02_Posters/04_2016%20RaPId%20OpenIPSL%20poster.pdf).
