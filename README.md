@@ -55,7 +55,7 @@
   - Download: [(here)](https://github.com/SmarTS-Lab-Parapluie/2016_STINT-CAPES-SynchrophasorWorkshop/blob/master/02_Posters/01_Poster_R_Bernardo_IV_PMU_in_Rio.pdf).
 
 2. F. Gomez and L. Vanfretti, "Meta-Modeling and Model Transformations for Power System Simulation using Model Driven Technologies”, KTH.
-  - Download: *to be updated*
+  - Download: [(here)](https://github.com/SmarTS-Lab-Parapluie/2016_STINT-CAPES-SynchrophasorWorkshop/blob/master/02_Posters/02_Francisco_poster_workshop_rio.pdf)
 
 3. T. Bogodorova and L. Vanfretti, "Estimation of Power System Model Parameters: Uncertainty Distributions and Confidence Intervals”, KTH.
   - Download: [(here)](https://github.com/SmarTS-Lab-Parapluie/2016_STINT-CAPES-SynchrophasorWorkshop/blob/master/02_Posters/03_TetianaPosterBrazil2016.pdf).
